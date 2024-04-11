@@ -11,7 +11,7 @@ const ThoughtController = {
       res.status(500).json(err);
     }
   },
-  
+// get thoughts by id handler
   async getThoughtsById(req, res) {
     try {
       const thought = await Thought.findOne({_id:req.params.thoughtId});
@@ -20,6 +20,15 @@ const ThoughtController = {
       } else {
         res.json(thought);
       }
+    } catch (err) {
+      res.status(500).json(err);
+    }
+  },
+// create thoughts by id handler
+  async createThought(req, res) {
+    try {
+      const thought = await Thought.create(req.body);
+      res.status(201).json(thought);
     } catch (err) {
       res.status(500).json(err);
     }
