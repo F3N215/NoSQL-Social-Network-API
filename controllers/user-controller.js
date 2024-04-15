@@ -62,8 +62,7 @@ const UserController = {
       .catch((err) => res.status(500).json(err));
   },
 
-  // NEW 7. Remove friend from user's friend list
-
+  // 7. Remove friend from user's friend list
   removeFriend({ params }, res) {
     User.findOneAndUpdate(
       { _id: params.userId },
