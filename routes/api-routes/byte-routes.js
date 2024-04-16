@@ -1,5 +1,5 @@
 // start with importing controllers & dependencies
-const route = require("express").Router();
+const router = require("express").Router();
 const {
   getAllBytes,
   getBytesById,
