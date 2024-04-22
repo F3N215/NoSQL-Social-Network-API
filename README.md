@@ -5,6 +5,12 @@
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+* Javascript
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+
 #### _Links_
 * <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/controllers">Controllers</a>
 * <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/models">Models</a>
@@ -24,9 +30,7 @@
 -----
 # Initial Work & Study 💻  
 * Searched through previous classes, online tutorials, and studied proper syntax for back end/front end merging
-* Scheduled regular meetings with my mentor & tutor
-* Reviewed online videos for Heroku deployment troubleshooting
-* Reviewed previous class sessions and activities for Express
+* Scheduled regular meetings with my mentor & tutor, along with classmates
 
 -----
 ## How to Install 📝  
