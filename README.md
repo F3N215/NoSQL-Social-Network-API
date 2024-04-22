@@ -6,10 +6,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 #### _Links_
-* <a href="https://github.com/F3N215/OOP-SVG-Maker/blob/main/index.js">Public Folder</a>
-* <a href="https://github.com/F3N215/Express-Note-Taking-App/tree/main/routes">Routes Folder</a>
-* <a href="https://streamable.com/boe3an">Video Demo</a>
-* <a href="https://dans-note-taker-4d4521d7ba48.herokuapp.com/">Heroku Deployment Link</a>
+* <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/controllers">Controllers</a>
+* <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/models">Models</a>
+* <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/routes">Routes Folder</a>
+* <a href="">Video Demo</a>
 
 -----
 ## Project Summary 📋
@@ -32,7 +32,7 @@
 ## How to Install 📝  
 * Clone this repository from GitHub, or retrieve a downloaded .zip folder from this repository
 * Open this repository in any source code editor, VS Code is preferred
-* Using your terminal, install the following:
+* Using your terminal, run the following commands:
 * `npm install`
 * `npm start`
 
