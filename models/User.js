@@ -23,7 +23,7 @@ const userSchema = new Schema(
         ref: "User",
       },
     ],
-    thoughts: [
+    bytes: [
       {
         type: Schema.Types.ObjectId,
         ref: "Byte",

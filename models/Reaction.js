@@ -28,3 +28,4 @@ const reactionSchema = new Schema(
     _id: false, // Corrected from 'id: false'
   }
 );
+module.exports = reactionSchema;
