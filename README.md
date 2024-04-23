@@ -15,7 +15,11 @@
 * <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/controllers">Controllers</a>
 * <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/models">Models</a>
 * <a href="https://github.com/F3N215/NoSQL-Social-Network-API/tree/main/routes">Routes Folder</a>
-* <a href="">Video Demo</a>
+* Video Demos
+  * <a href="https://streamable.com/17vcn1">Insomnia Walkthrough 1</a>
+  * <a href="https://streamable.com/o9fhhb">Insomnia Walkthrough 2</a>
+  * <a href="https://streamable.com/x60tdy">Insomnia Walkthrough 3</a>
+  * <a href="https://streamable.com/zg4mfk">MongoDB</a>
 
 -----
 ## Project Summary 📋
